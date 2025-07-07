@@ -30,8 +30,9 @@
 <a href="https://www.hackerearth.com/https://www.hackerearth.com/@vermaaayushman152/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@vermaaayushman152/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/ayushverm52an/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/ayushverm52an/" height="30" width="40" /></a>
 <a href="https://atcoder.jp/users/aayush_san_83" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="atcoder profile" height="30" width="40" />
+  <img align="center" src="https://img.atcoder.jp/assets/top/img/logo_bk.svg" alt="AtCoder Profile" height="30" width="40" />
 </a>
+
 
 </p>
 
